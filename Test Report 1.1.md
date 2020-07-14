@@ -7,9 +7,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Bug Issue 1](https://github.com/Anastasia-Rybak-2044/Java-Hometask-1.1/issues/4)
-* [Bug Issue 2](https://github.com/Anastasia-Rybak-2044/Java-Hometask-1.1/issues/5)
-* [Bug Issue 3](https://github.com/Anastasia-Rybak-2044/Java-Hometask-1.1/issues/6)
+* [Не валидируются валидные ключи](https://github.com/Anastasia-Rybak-2044/Java-Hometask-1.1/issues/9)
+* [Валидируется невалидный ключ](https://github.com/Anastasia-Rybak-2044/Java-Hometask-1.1/issues/10)
+
 
 ## Описание процесса тестирования
 
